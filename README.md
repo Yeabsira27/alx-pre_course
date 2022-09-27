@@ -1,1 +1,1 @@
-My first readme
+first alx pre course directory
